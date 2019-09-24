@@ -9,6 +9,6 @@ This page contains some code that are used in chemical engineering classes at Un
 
 -M1_catalyseur code allows to calculate the consomption of a reactant by a porous catalytic bead. It allow to treat the coupling between an heterogeneous reaction and the internal diffusion in the porous media and to use the Thiele modulus.
 
--M1_catalyseur code allows to calculate the filtration rate for a given transmembrane pressure when the process is limited by a concentration polarization inducing a counter osmotic pressure. It allows to treat the coupling between the convection (due to the permeation) and the  diffusion and to use the Péclet number.
+-M1_ultrafiltration code allows to calculate the filtration rate for a given transmembrane pressure when the process is limited by a concentration polarization inducing a counter osmotic pressure. It allows to treat the coupling between the convection (due to the permeation) and the  diffusion and to use the Péclet number.
 
 More info on wwww.patricebacchin.fr
