@@ -11,4 +11,10 @@ This page contains some code that are used in chemical engineering classes at Un
 
 -M1_ultrafiltration code allows to calculate the filtration rate for a given transmembrane pressure when the process is limited by a concentration polarization inducing a counter osmotic pressure. It allows to treat the coupling between the convection (due to the permeation) and the  diffusion and to use the Péclet number.
 
+The EM3E* file corresponds to courses in Separation Science for the Erasmus Munuds Programme in Membrane Engineering.
+
+-EM3E_liquid_vapor_equilibrium for the plot of the dew point and bioling curve
+
+-EM3E_Liquid_liquid_equilibrium for the plot of the binodal and tie lines in a ternary diagram
+
 More info on wwww.patricebacchin.fr
