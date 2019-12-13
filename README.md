@@ -17,4 +17,6 @@ The EM3E* file corresponds to courses in Separation Science for the Erasmus Munu
 
 -EM3E_Liquid_liquid_equilibrium for the plot of the binodal and tie lines in a ternary diagram
 
+The M2* file corresponds to courses in Colloid and Interface Science.
+
 More info on wwww.patricebacchin.fr
